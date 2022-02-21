@@ -1,0 +1,22 @@
+{
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "Mock"
+    },
+    {
+      "Id": 2,
+      "Name": "Second Mock"
+    }
+  ],
+  "Orders": [
+    {
+      "Id": 1,
+      "Name": "Order1"
+    },
+    {
+      "Id": 2,
+      "Name": "Second Order"
+    }
+  ]
+}
